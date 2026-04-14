@@ -1,0 +1,17 @@
+{
+  "name": "toilet-flyer",
+  "version": "1.0.0",
+  "description": "A hilarious web game where you launch a person from a toilet and they fly while pooping!",
+  "main": "game.js",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "game",
+    "phaser",
+    "web-game",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
